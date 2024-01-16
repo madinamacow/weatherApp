@@ -1,6 +1,7 @@
 
  this is simple weather
 
+<img width="286" alt="page" src="https://github.com/madinamacow/weatherApp/assets/144919853/88beeaf0-8960-40e3-b905-b9431b79839e">
 
 In the project directory, you can run:
 ### `npm install`
