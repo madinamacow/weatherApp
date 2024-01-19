@@ -1,5 +1,6 @@
 
- this is simple weather
+ this is simple weather App
+
 
 <img width="286" alt="page" src="https://github.com/madinamacow/weatherApp/assets/144919853/88beeaf0-8960-40e3-b905-b9431b79839e">
 
